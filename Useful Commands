@@ -17,3 +17,16 @@ target/release
 
 - How many release profiles does Rust have using optimisation level?
 4
+
+- How to define a variable (immutable) in Rust?
+let (let word = "hello";)
+
+- How to define a mutable variable in Rust?
+let mut (let mut word = "hello";)
+
+- How do we define a constant in Rust?
+const
+
+- How do we get the length of the variable?
+<variable_name>.len (word.len())
+
