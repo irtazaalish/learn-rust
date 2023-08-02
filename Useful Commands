@@ -1,0 +1,19 @@
+# Usefull Commands for Rust
+
+- How do we initialise a new Rust project?
+cargo init
+
+- If we wanted to add a dependency to our Rust project, what file would we edit?
+cargo.toml
+
+- How do we run our Rust project?
+cargo run
+
+- How do we build the project RustScan with the release profile (most optimised)?
+cargo build --release
+
+- What folder are the release binaries stored in?
+target/release
+
+- How many release profiles does Rust have using optimisation level?
+4
