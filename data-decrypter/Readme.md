@@ -24,3 +24,7 @@ Here's some hints in case you do:
 2. https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html
 
 3. Stop trying to do so many things at once. Break it down to the bare necessities and slowly build back up to see what causes the errors.
+
+Todo:
+Add error handling
+make it CLI interactive where the user can either give it an input file with the data using a parameter or the encoded data using a string

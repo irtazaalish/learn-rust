@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 cipher-crypt = "0.18.0"
 base64 = "0.21.2"
+rayon = "1.7.0"

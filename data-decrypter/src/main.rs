@@ -27,13 +27,4 @@ fn main() {
     println!("The base64 decoded message is: {:?}", decoded_base64);
     println!("The base64 decoded message is: {:?}", decoded_string);
 
-//    match base64_decoded {
-//        Ok(decoded_bytes) => {
-//            let decoded_string = String::from_utf8_lossy(&decoded_bytes);
-//            println!("The base64 decoded message is: {:?}", decoded_string);
-//        }
-//        Err(err) => {
-//            println!("Error decoding base64: {:?}", err);
-//        }
-//    }
 }
