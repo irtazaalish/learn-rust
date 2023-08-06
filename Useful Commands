@@ -1,32 +1,41 @@
 # Usefull Commands for Rust
 
 - How do we initialise a new Rust project?
+
 cargo init
 
 - If we wanted to add a dependency to our Rust project, what file would we edit?
+
 cargo.toml
 
 - How do we run our Rust project?
 cargo run
 
 - How do we build the project RustScan with the release profile (most optimised)?
+
 cargo build --release
 
 - What folder are the release binaries stored in?
+
 target/release
 
 - How many release profiles does Rust have using optimisation level?
+
 4
 
 - How to define a variable (immutable) in Rust?
+
 let (let word = "hello";)
 
 - How to define a mutable variable in Rust?
+
 let mut (let mut word = "hello";)
 
 - How do we define a constant in Rust?
+
 const
 
 - How do we get the length of the variable?
+
 <variable_name>.len (word.len())
 
